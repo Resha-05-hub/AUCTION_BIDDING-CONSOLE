@@ -50,7 +50,7 @@ method to run the menu-driven system.
 <img width="650" height="983" alt="image" src="https://github.com/user-attachments/assets/cc694b34-3f66-4233-b659-420e4752105a" />
 
 ## STUDENT DETAILS:
-NAME: RASMI RESHA A
+NAME: RASMI RESHA A.
 ROLL NO: 717823P145
 
 
