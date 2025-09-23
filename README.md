@@ -42,8 +42,9 @@ method to run the menu-driven system.
 7. Use the console menu to interact with the system (Add Seller, Add Item, Create Auction, Register Bidder, Place Bid, Close Auction, Settle Payment, Display Auctions).
 
 ## OUTPUT:
-<img width="1919" height="732" alt="image" src="https://github.com/user-attachments/assets/22cc777a-d73a-4a99-a5ab-f62977e826be" />
-<img width="1919" height="676" alt="image" src="https://github.com/user-attachments/assets/e6ae953a-3cbb-453c-98c8-9c4959d09e57" />
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/3895514d-bd71-4b3f-bd9e-0f0aca6b95bf" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/ea681cfd-f403-4022-8d21-18527eccd78c" />
+<img width="1919" height="264" alt="image" src="https://github.com/user-attachments/assets/44dd2038-b826-4cef-ad28-186bef500022" />
 
 ## UML CLASS DIAGRAM:
 <img width="650" height="983" alt="image" src="https://github.com/user-attachments/assets/cc694b34-3f66-4233-b659-420e4752105a" />
