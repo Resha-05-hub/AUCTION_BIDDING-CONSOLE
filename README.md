@@ -1,4 +1,4 @@
-# 🛒 Online Auction & Bidding System
+# 🛒 Online Auction & Bidding System   
 
 ## 📌 Problem Statement
 The project is a **Java console application** that simulates an **Online Auction & Bidding System**.  
